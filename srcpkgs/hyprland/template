@@ -1,6 +1,6 @@
 # Template file for 'hyprland'
 pkgname=hyprland
-version=0.35.0
+version=0.36.0
 revision=1
 build_style=cmake
 hostmakedepends="jq git pkg-config glslang hwids meson ninja autoconf mk-configure"
@@ -17,6 +17,7 @@ makedepends="
 depends="
 	cairo
 	glslang
+  hyprlang>=0.3.9
 	libdisplay-info
 	libinput
 	libliftoff
