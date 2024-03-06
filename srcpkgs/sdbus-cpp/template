@@ -1,6 +1,6 @@
 # Template file for 'sdbus-cpp'
 pkgname=sdbus-cpp
-version=1.4.0
+version=1.5.0
 revision=1
 build_style=cmake
 hostmakedepends="cmake meson ninja pkg-config git m4 rsync gperf"
