@@ -10,4 +10,4 @@ license="GPL-3.0-only"
 homepage="https://hyprland.org/hyprlang/index.html"
 changelog="https://github.com/hyprwm/${pkgname}/releases"
 distfiles="https://github.com/hyprwm/hyprlang/archive/refs/tags/v${version}.tar.gz"
-checksum=4b8defe0503729f00924cb3837433a7fd87beae773aa7c229a8ab24c48c2a2e8
+checksum=dd00b48fc31199c3f30f4ef6ec61f3bddcc092eff2628ee28cb238a4501521e8
