@@ -18,7 +18,7 @@ makedepends="
 depends="
 	cairo
 	glslang
-  hyprlang>=0.3.9
+  hyprlang>=0.4.0
 	libdisplay-info
 	libinput
 	libliftoff
