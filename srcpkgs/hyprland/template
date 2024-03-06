@@ -6,6 +6,7 @@ build_style=cmake
 hostmakedepends="jq git pkg-config glslang hwids meson ninja autoconf mk-configure"
 makedepends="
 	cairo-devel
+  hyprlang
 	libdisplay-info-devel
 	libdrm-devel
 	libliftoff
